@@ -17,12 +17,12 @@ Follow these steps to run the project locally on your system.
 Prerequisites
 Make sure you have the following installed:
 
-Node.js (LTS version recommended)
-npm (or yarn if you prefer)
-Clone the repository: {git clone https://github.com/your-username/healthcare-services-management.git
-}
-Navigate to the project directory:{cd healthcare-services-management
-}
-Install dependencies:{npm install}
-Or if you're using yarn: {yarn install}
-Start the development server: {npm run dev or yarn run dev}
+<li>Node.js (LTS version recommended)</li>
+<li>npm (or yarn if you prefer)</li>
+<li>Clone the repository: {git clone https://github.com/your-username/healthcare-services-management.git
+}</li>
+<li>Navigate to the project directory:{cd healthcare-services-management
+}</li>
+<li>Install dependencies:{npm install}
+Or if you're using yarn: {yarn install}</li>
+<li>Start the development server: {npm run dev or yarn run dev}</li>
